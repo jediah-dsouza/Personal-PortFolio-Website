@@ -23,11 +23,11 @@ This website serves as my digital profile, showcasing my skills, education, proj
 📂 Project Structure
 
 Personal Portfolio Website/
-│── index.html        # Main HTML file
-│── style.css         # Stylesheet for design and layout
-│── profile-pic.jpg   # Profile picture
-│── LinkedinIcon.png  # LinkedIn logo for header
-│── GitHubIcon.png    # GitHub logo for header
+│── index.html       
+│── style.css         
+│── profile-pic.jpg   
+│── LinkedinIcon.png  
+│── GitHubIcon.png    
 └── (Other assets...)
 
 
