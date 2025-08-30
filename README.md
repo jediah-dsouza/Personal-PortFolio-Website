@@ -1,4 +1,4 @@
-Personal Portfolio Website – Jediah Michael D’Souza
+# Personal Portfolio Website – Jediah Michael D’Souza
 
 A clean, responsive, and visually appealing personal portfolio website built with HTML and CSS.
 This website serves as my digital profile, showcasing my skills, education, projects, and contact details — making it easier for recruiters, collaborators, and fellow developers to connect with me.
