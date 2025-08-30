@@ -22,7 +22,7 @@ This website serves as my digital profile, showcasing my skills, education, proj
 
 📂 Project Structure
 
-Personal Portfolio Website/
+Personal Portfolio Website
 │── index.html       
 │── style.css         
 │── profile-pic.jpg   
